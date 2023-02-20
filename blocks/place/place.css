@@ -21,6 +21,18 @@
   }
 }
 
+@media screen and (max-width: 568px) {
+  .place {
+    column-gap: 12px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .place {
+    column-gap: 8px;
+  }
+}
+
 @media screen and (max-width: 480px) {
   .place {
     display: flex;
