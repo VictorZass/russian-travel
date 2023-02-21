@@ -10,7 +10,7 @@
 - FlexBox.
 - Grid.
 
-### *GitPages → *
+### *GitPages → https://victorzass.github.io/russian-travel/index.html*
 
 В дальнейшем данный проект будет совершенствоваться:
 - Анимация.
