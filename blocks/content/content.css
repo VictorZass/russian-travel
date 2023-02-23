@@ -16,3 +16,5 @@
     max-width: 768px;
   }
 }
+
+*,*::before,*::after {outline: 1px solid red}
