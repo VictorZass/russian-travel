@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 1024px) {
   .place__image {
-    width: 42.96875vw;
+    max-width: 440px;
   }
 }
 
@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 480px) {
   .place__image {
-    width: 100vw;
+    width: 100%;
     object-fit: cover;
     margin-bottom: 32px;
   }
